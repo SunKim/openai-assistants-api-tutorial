@@ -1,0 +1,17 @@
+{
+	"name": "openai-assistants-api",
+	"version": "1.0.0",
+	"description": "OpenAI Assistants API test",
+	"main": "index.js",
+	"type": "module",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "sjmarine97@gmail.com",
+	"license": "ISC",
+	"dependencies": {
+		"dotenv": "^16.3.1",
+		"openai": "^4.24.1"
+	}
+}
