@@ -1,5 +1,5 @@
 {
-	"name": "openai-assistants-api",
+	"name": "openai-assistants-api-tutorial",
 	"version": "1.0.0",
 	"description": "OpenAI Assistants API test",
 	"main": "index.js",
